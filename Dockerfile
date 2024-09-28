@@ -1,4 +1,4 @@
-#Sample Dockerfile for NodeJS Apps
+
 
 FROM node:18.16.0
 
